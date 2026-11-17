@@ -1,0 +1,21 @@
+{
+    "matchInformation": {
+        "matchStartTime": "2026-07-20 14:13:51",
+        "matchEndTime": "2026-07-20 14:14:32",
+        "matchWinner": "Match ended prematurely - No Winner",
+        "maxPlayers": 2,
+        "redTeam": [
+            "KK (JulianBot)"
+        ],
+        "blueTeam": []
+    },
+    "votingSummary": [
+        {
+            "targetName": "KK",
+            "trueIdentity": "Bot",
+            "votesAsHumanCount": 0,
+            "votesAsBotCount": 0
+        }
+    ],
+    "votingTimeline": []
+}
